@@ -1,0 +1,32 @@
+
+.container{
+    display: flex;
+    height: 500px;
+    width: 500px;
+    border: 1px solid black;
+    flex-direction: column;
+}
+.titulo{
+    position: absolute;
+    width: 10;
+    border: 1px solid orange;
+    left: 1;
+}
+.asterisco{
+    width: 10;
+    border: 1px solid #125758;
+    text-align: center;
+}
+.dashboard{
+    border: 1px solid #658312;
+    text-align: start;
+    width: 10;
+    left: 1;
+}
+.dashboard2{
+    width: 10;
+    background: #125312;
+}
+.items{
+    background: violet;
+}
