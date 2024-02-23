@@ -1,0 +1,13 @@
+*{
+    background: rgb(11, 20, 24);
+    position: relative;
+}
+
+.header{
+    
+}
+
+.container{
+    width: 500px;
+    height: 100px;
+}
