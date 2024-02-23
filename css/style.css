@@ -1,9 +1,23 @@
 *{
-    background: rgb(11, 20, 24);
+    background: rgb(227, 234, 236);
     position: relative;
 }
 
 nav{
     display: flex;
     align-items: center;
+    justify-content: space-around;
 }
+
+ul li{
+    display: inline-block;
+}
+
+
+nav .cuadro{
+    width: 40px;
+    height: 40px;
+    background: #646262;
+    text-align: center;
+}
+
