@@ -23,4 +23,14 @@
 
 .menu li span{
     margin-left: 1em;
+    list-style: none;
+    display: inline-flex;
+}
+
+.menu a{
+    text-decoration: none;
+    box-sizing: 0;
+    background: rgb(160, 161, 165);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #1d1c1c;
 }
