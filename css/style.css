@@ -1,0 +1,18 @@
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+.portada h1:first-child{
+    width: 40vh;
+    background: green;
+}
+
+ul, ol{
+    list-style: none;
+}
+
+.dashboard{
+    width: 40vh;
+    background: rgb(134, 188, 231);
+}
