@@ -22,7 +22,7 @@ div{
 div .cuadro{
     width: 40px;
     height: 40px;
-    background: gray;
+    background: #8a8b89;
     color: #fff;
     border: 0;
     padding: 0;
@@ -40,7 +40,7 @@ div .cuadro{
 
 .menu a{
     text-decoration: none;
-    color: rgb(161, 158, 158)
+    color: #8a8b89;
 }
 
 
