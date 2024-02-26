@@ -24,13 +24,22 @@ div .cuadro{
     height: 40px;
     background: gray;
     color: #fff;
+    border: 0;
+    padding: 0;
 }
 
 .menu{
     display: flex;
+    list-style: none;
+    justify-content: space-between;
     height: 25px;
     width: 300px;
     padding: 0;
+}
+
+.menu a{
+    text-decoration: none;
+    color: rgb(161, 158, 158)
 }
 
 
