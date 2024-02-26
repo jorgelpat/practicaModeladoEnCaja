@@ -1,0 +1,41 @@
+*{
+    background: #94d9e9;
+}
+
+
+.panel{
+    display: flex;
+    justify-content: center;
+    height: 480px;
+}
+
+.card h2{
+    height: 20%;
+    background: salmon;
+    margin: 0 5px 0 5px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    height: 60%;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background: #fff;
+    margin: 0 5px 0 5px;
+}
+
+a{
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    text-decoration: none;
+    background: #fff;
+    margin: 0 5px 0 5px;
+}
+
+li{
+    background: #fff;
+}
+
