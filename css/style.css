@@ -16,9 +16,10 @@
     justify-content: space-between;
     padding: 4px;
     margin: 5px 0;
-    background: #dddddd;
+    background: #c3bfcf;
     color: black;
     font-family: sans-serif;
+    align-items: center;
 }
 
 .menu li span{
@@ -30,7 +31,15 @@
 .menu a{
     text-decoration: none;
     box-sizing: 0;
-    background: rgb(160, 161, 165);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #1d1c1c;
+    padding: 3px;
+}
+
+.menu button{
+    cursor: pointer;
+}
+
+button{
+    width: 70px;
 }
