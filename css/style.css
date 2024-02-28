@@ -12,9 +12,9 @@ body{
     height: 100vh;
 }
 
-.portada h1:first-child{
+.menulat h1:first-child{
     width: 40vh;
-    background: green;
+    /* background: green; */
 }
 
 ul, ol{
@@ -24,4 +24,5 @@ ul, ol{
 .dashboard{
     width: 40vh;
     background: rgb(134, 188, 231);
+    border-radius: 5px;
 }
